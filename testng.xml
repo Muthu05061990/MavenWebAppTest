@@ -6,4 +6,5 @@
       <class name="testcases.HomePageTest"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> <!-- Suite --->
+
